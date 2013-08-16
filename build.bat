@@ -6,6 +6,6 @@ set installComplete=%compFolder%\git_sra_install_complete
 if exist %installer% (rmdir installer /q)
 if exist %installComplete% (rmdir writeBat /q)
 mkdir %instFolder%
-mkdir %compFolder%
 
-echo echo^>%installComplete% > %installer%
+echo mkdir %compFolder% > %installer%
+echo echo^>%installComplete% >> %installer%
