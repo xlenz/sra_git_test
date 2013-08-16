@@ -1,4 +1,6 @@
-sra_git_test
+sra_git_test (fake)
 ============
 
-testing serena ra
+just a fake, this repo has nothing in it!
+just testing git
+sorry
