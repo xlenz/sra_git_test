@@ -1,3 +1,5 @@
+rem noop
+
 set instFolder=installer
 set compFolder=writeBat
 set installer=%instFolder%\git_sra_installer.bat
